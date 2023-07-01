@@ -1,6 +1,7 @@
 # Twitter scraping
 
-*NOTE: Not sure if this works following Twitter's API changes.*
+**NOTE: Not sure if this works following Twitter's API changes.**
+
 Scripts to pull and analyze data using the Twitter API
 
 ## List of scripts
